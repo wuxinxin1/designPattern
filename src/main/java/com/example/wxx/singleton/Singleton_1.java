@@ -5,6 +5,8 @@ import java.io.Serializable;
 /**
  * Created by IntelliJ IDEA.
  *  编写饿汉式单例模式
+ *  1.Serializable  序列化和反序列化会破坏单例模式
+ *  2.Cloneable     支持克隆对象会破坏单例模式
  * @author: wuxinxin
  * @date: 2019/3/14
  */
