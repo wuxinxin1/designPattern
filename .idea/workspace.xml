@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bf7a105-c01e-4157-898c-ac69cd36d5fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ConcreteProduct1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ProductFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme" beforeDir="false" afterPath="$PROJECT_DIR$/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Client.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,15 +28,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/singleton/readme">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/singleton/Singleton_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
@@ -42,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/factorymethod/Creator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="301">
               <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
@@ -61,6 +55,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ProductFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ConcreteProduct1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/factorymethod/ConcreteCreator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -69,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="301">
+              <caret line="46" column="61" lean-forward="true" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,15 +119,6 @@
                 <element signature="e#301#302#0" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/singleton/Singleton_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -131,8 +149,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Creator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/ConcreteProduct.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/factorymethod/Creator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Client.java" />
         <option value="$PROJECT_DIR$/readme" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ConcreteProduct1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Client.java" />
       </list>
     </option>
   </component>
@@ -219,6 +240,16 @@
               <item name="factory" type="462c0819:PsiDirectoryNode" />
               <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wxx" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -230,13 +261,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552559841214" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552561520602" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.wxx.factory.simplefactory" />
       <recent name="com.example.wxx.singleton" />
     </key>
   </component>
@@ -252,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Client.test1">
+  <component name="RunManager" selected="JUnit.Client.test2">
     <configuration name="Client.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
@@ -269,17 +301,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Client.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.wxx.singleton.*" />
+          <option name="PATTERN" value="com.example.wxx.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.wxx.singleton" />
-      <option name="MAIN_CLASS_NAME" value="com.example.wxx.singleton.Client" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="com.example.wxx.factory" />
+      <option name="MAIN_CLASS_NAME" value="com.example.wxx.factory.Client" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -335,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Client.test2" />
         <item itemvalue="JUnit.Client.test1" />
         <item itemvalue="JUnit.Client.test6" />
         <item itemvalue="JUnit.Client.test5" />
         <item itemvalue="JUnit.Client.test4" />
-        <item itemvalue="JUnit.Client.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +387,7 @@
       <updated>1552537312024</updated>
       <workItem from="1552537317750" duration="5542000" />
       <workItem from="1552542930665" duration="292000" />
-      <workItem from="1552545809448" duration="8534000" />
+      <workItem from="1552545809448" duration="9817000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式">
       <created>1552542429430</created>
@@ -385,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552553207851</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="工厂方法模式">
+      <created>1552560165694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552560165694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -421,10 +460,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14368000" />
+    <option name="totallyTimeSpent" value="15651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20710456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -435,7 +475,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.296034" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31444758" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,6 +558,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/factorymethod/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -525,10 +579,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/factorymethod/Creator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="301">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -552,27 +606,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ConcreteProduct1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/simplefactory/ProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="301">
+          <caret line="46" column="61" lean-forward="true" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/wxx/factory/factorymethod/Creator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>

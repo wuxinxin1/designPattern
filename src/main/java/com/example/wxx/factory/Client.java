@@ -3,6 +3,8 @@ package com.example.wxx.factory;
 import com.example.wxx.factory.factorymethod.ConcreteCreator;
 import com.example.wxx.factory.factorymethod.ConcreteProduct;
 import com.example.wxx.factory.factorymethod.Creator;
+import com.example.wxx.factory.simplefactory.ConcreteProduct1;
+import com.example.wxx.factory.simplefactory.ProductFactory;
 import org.junit.Test;
 
 /**
@@ -30,5 +32,23 @@ public class Client {
 
         concreteProduct.method1();
         concreteProduct.method2();
+    }
+
+
+    /**
+     * 测试简单工厂
+     */
+    @Test
+    public void test2() throws IllegalAccessException, InstantiationException, ClassNotFoundException {
+        //创建工厂
+        ProductFactory productFactory=new ProductFactory();
+
+        //创建对象
+        ConcreteProduct1 concreteProduct1 = productFactory.create(ConcreteProduct1.class);
+
+        concreteProduct1.method1();
+
+        concreteProduct1.method2();
+
     }
 }
